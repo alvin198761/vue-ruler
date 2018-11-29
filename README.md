@@ -10,7 +10,7 @@
     <DLRuler :value="35" :min="10" :max="120"></DLRuler>
 ```    
 ## 效果：
-
+![image](https://github.com/alvin198761/vue-ruler/blob/master/ruler.gif)
 ## 问题：
 最小刻度还有bug,
 
