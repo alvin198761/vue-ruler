@@ -9,6 +9,16 @@
     测试
     <DLRuler :value="35" :min="10" :max="120"></DLRuler>
 ```    
+参数描述：
+
+value 当前值
+
+min 最小值
+
+max 最大值
+
+onChange：数值发生改变后调用， 可选参数
+
 ## 效果：
 ![image](https://github.com/alvin198761/vue-ruler/blob/master/ruler.gif)
 ## 问题：
